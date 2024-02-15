@@ -1,0 +1,19 @@
+﻿Console.WriteLine("Table of 5");
+int num = 5;
+for (int i = 1; i <= 10; i++)
+{
+    Console.WriteLine($"{num}*{i} = \t {(num * i)}");
+}
+Console.WriteLine("Table of 6");
+num = 6;
+for (int i = 1; i <= 10; i++)
+{
+    Console.WriteLine($"{num}*{i} = \t {(num * i)}");
+}
+
+Console.WriteLine("Table of 7");
+num = 7;
+for (int i = 1; i <= 10; i++)
+{
+    Console.WriteLine($"{num}*{i} = \t {(num * i)}");
+}

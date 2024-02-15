@@ -1,0 +1,14 @@
+D:\MPHASIS PROJECTS\Phase-4\Tables\Tables\bin\Debug\net6.0\Tables.exe
+D:\MPHASIS PROJECTS\Phase-4\Tables\Tables\bin\Debug\net6.0\Tables.deps.json
+D:\MPHASIS PROJECTS\Phase-4\Tables\Tables\bin\Debug\net6.0\Tables.runtimeconfig.json
+D:\MPHASIS PROJECTS\Phase-4\Tables\Tables\bin\Debug\net6.0\Tables.dll
+D:\MPHASIS PROJECTS\Phase-4\Tables\Tables\bin\Debug\net6.0\Tables.pdb
+D:\MPHASIS PROJECTS\Phase-4\Tables\Tables\obj\Debug\net6.0\Tables.GeneratedMSBuildEditorConfig.editorconfig
+D:\MPHASIS PROJECTS\Phase-4\Tables\Tables\obj\Debug\net6.0\Tables.AssemblyInfoInputs.cache
+D:\MPHASIS PROJECTS\Phase-4\Tables\Tables\obj\Debug\net6.0\Tables.AssemblyInfo.cs
+D:\MPHASIS PROJECTS\Phase-4\Tables\Tables\obj\Debug\net6.0\Tables.csproj.CoreCompileInputs.cache
+D:\MPHASIS PROJECTS\Phase-4\Tables\Tables\obj\Debug\net6.0\Tables.dll
+D:\MPHASIS PROJECTS\Phase-4\Tables\Tables\obj\Debug\net6.0\refint\Tables.dll
+D:\MPHASIS PROJECTS\Phase-4\Tables\Tables\obj\Debug\net6.0\Tables.pdb
+D:\MPHASIS PROJECTS\Phase-4\Tables\Tables\obj\Debug\net6.0\Tables.genruntimeconfig.cache
+D:\MPHASIS PROJECTS\Phase-4\Tables\Tables\obj\Debug\net6.0\ref\Tables.dll
